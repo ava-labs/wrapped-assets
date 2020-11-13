@@ -1,6 +1,5 @@
 # WAVAX
-
-![WAVAX Logo](https://raw.githubusercontent.com/ava-labs/wavax/main/imgs/logo.png?token=AA2FVIOQIL3646LYO54ZZP27XAVTO | width=100)
+<img src="https://raw.githubusercontent.com/ava-labs/wavax/main/imgs/logo.png?token=AA2FVIOQIL3646LYO54ZZP27XAVTO" width="100">
 
 WAVAX or Wrapped Avax is an [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) compatible wrapper contract around the Avax token.
 
