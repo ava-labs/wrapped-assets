@@ -1,4 +1,7 @@
 # WAVAX
+
+![WAVAX Logo](https://raw.githubusercontent.com/ava-labs/wavax/main/imgs/logo.png?token=AA2FVIOQIL3646LYO54ZZP27XAVTO | width=100)
+
 WAVAX or Wrapped Avax is an [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) compatible wrapper contract around the Avax token.
 
 On Avalanche's C-Chain, Avax is treated just like standard ETH is on Ethereum. This means that Avax lacks the standardized interfaces that make ERC-20 tokens so interchangeable. WAVAX corrects this by issuing one ERC-20 WAVAX token for each Avax deposited. Each WAVAX is then redeemable for an equal amount of Avax.
