@@ -1,5 +1,5 @@
 # WAVAX
-<img src="https://raw.githubusercontent.com/ava-labs/wavax/main/imgs/logo.png?token=AA2FVIOQIL3646LYO54ZZP27XAVTO" width="100">
+<img src="imgs/logo.png" width="100">
 
 WAVAX or Wrapped Avax is an [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) compatible wrapper contract around the Avax token.
 
@@ -11,5 +11,5 @@ WAVAX is based on the implementation of Canonical WETH developed by the Ethereum
 The WAVAX implementation only changes the underlying contract to reflect the new token name of "Wrapped Avax" and the new symbol "WAVAX."
 
 ## Deployment
-- Mainnet: [0xDCd29f325060F8e9F6c21671aDC74dabD0fD5Ff5](https://cchain.explorer.avax.network/address/0xDCd29f325060F8e9F6c21671aDC74dabD0fD5Ff5/transactions)
-- Fuji: [0x1D308089a2D1Ced3f1Ce36B1FcaF815b07217be3](https://cchain.explorer.avax-test.network/address/0x1D308089a2D1Ced3f1Ce36B1FcaF815b07217be3/transactions)
+- Mainnet: [0x7Fc6D48E6e8e8B9505c171325539c651BF1D51d4](https://cchain.explorer.avax.network/address/0x7Fc6D48E6e8e8B9505c171325539c651BF1D51d4/transactions)
+- Fuji: [0xd00ae08403B9bbb9124bB305C09058E32C39A48c](https://cchain.explorer.avax-test.network/address/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/transactions)

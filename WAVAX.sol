@@ -18,7 +18,7 @@
 pragma solidity >=0.4.22 <0.6;
 
 contract WAVAX {
-    string public name     = "Wrapped Avax";
+    string public name     = "Wrapped AVAX";
     string public symbol   = "WAVAX";
     uint8  public decimals = 18;
 
