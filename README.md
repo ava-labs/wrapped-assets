@@ -1,14 +1,14 @@
 # WAVAX
 <img src="imgs/logo.png" width="100">
 
-WAVAX or Wrapped Avax is an [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) compatible wrapper contract around the Avax token.
+WAVAX or Wrapped AVAX is an [ERC-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md) compatible wrapper contract around the AVAX token.
 
-On Avalanche's C-Chain, Avax is treated just like standard ETH is on Ethereum. This means that Avax lacks the standardized interfaces that make ERC-20 tokens so interchangeable. WAVAX corrects this by issuing one ERC-20 WAVAX token for each Avax deposited. Each WAVAX is then redeemable for an equal amount of Avax.
+On Avalanche's C-Chain, AVAX is treated just like standard ETH is on Ethereum. This means that AVAX lacks the standardized interfaces that make ERC-20 tokens so interchangeable. WAVAX corrects this by issuing one ERC-20 WAVAX token for each AVAX deposited. Each WAVAX is then redeemable for an equal amount of AVAX.
 
 ## Implementation
 WAVAX is based on the implementation of Canonical WETH developed by the Ethereum community. Details are available [here](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd) and original source code is available here: https://github.com/gnosis/canonical-weth.
 
-The WAVAX implementation only changes the underlying contract to reflect the new token name of "Wrapped Avax" and the new symbol "WAVAX."
+The WAVAX implementation only changes the underlying contract to reflect the new token name of "Wrapped AVAX" and the new symbol "WAVAX."
 
 ## Deployment
 - Mainnet: [0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7](https://cchain.explorer.avax.network/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/transactions)
