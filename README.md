@@ -11,5 +11,5 @@ WAVAX is based on the implementation of Canonical WETH developed by the Ethereum
 The WAVAX implementation only changes the underlying contract to reflect the new token name of "Wrapped Avax" and the new symbol "WAVAX."
 
 ## Deployment
-- Mainnet: [0x7Fc6D48E6e8e8B9505c171325539c651BF1D51d4](https://cchain.explorer.avax.network/address/0x7Fc6D48E6e8e8B9505c171325539c651BF1D51d4/transactions)
+- Mainnet: [0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7](https://cchain.explorer.avax.network/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/transactions)
 - Fuji: [0xd00ae08403B9bbb9124bB305C09058E32C39A48c](https://cchain.explorer.avax-test.network/address/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/transactions)
