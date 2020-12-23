@@ -10,6 +10,9 @@ WAVAX is based on the implementation of Canonical WETH developed by the Ethereum
 
 The WAVAX implementation only changes the underlying contract to reflect the new token name of "Wrapped AVAX" and the new symbol "WAVAX."
 
+## Security
+Because this contract is a fork of canonical WETH, it has the same security characteristics of the Gnosis WETH implementation. That contract has been in circulation for several years and has been thoroughly audited.
+
 ## Deployment
 - Mainnet: [0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7](https://cchain.explorer.avax.network/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/transactions)
 - Fuji: [0xd00ae08403B9bbb9124bB305C09058E32C39A48c](https://cchain.explorer.avax-test.network/address/0xd00ae08403B9bbb9124bB305C09058E32C39A48c/transactions)
