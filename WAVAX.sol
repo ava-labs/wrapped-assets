@@ -42,7 +42,8 @@ contract WAVAX {
     function withdraw(uint256 wad) public {
         require(balanceOf[msg.sender] >= wad);
         balanceOf[msg.sender] -= wad;
-        payable(msg.sender).transfer(wad);
+        (bool success,) = msg.sender.call{value: wad}("");
+        require(success, "Transfer Failed");
         emit Withdrawal(msg.sender, wad);
     }
 
